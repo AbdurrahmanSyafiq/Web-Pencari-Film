@@ -1,2 +1,2 @@
 # Web-Pencari-Film
-Ini adalah repository dari Website Pencari Film yang dibuat oleh Abdurrahman Syafiq
+Repository web pencarian film data diambil dari omdb Api ( Open api ) dengan method ajax
